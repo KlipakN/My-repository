@@ -1,0 +1,21 @@
+został zrobiony layout gdzie na głównej stronie znajduje się 3 przyciski na następujące pod strony.
+
+ Na 1 pod stronie jest zrobiony layout dla miasta Kraków,
+ na 2 pod stronie jest zrobiony layout dla miasta Tarnów,
+ na 3 pod stronie jest zrobiony layout dla miasta Nowy Sącz,
+
+	Na pierwszych dwóch stronach bedzię zrobione Główna strona oraz większość pod stron
+	
+	
+	Ogulnie :
+	1.główne informacje
+	Atrakcje 3 głównych Miasta
+	Informacje na 3 miastach 
+	Histroia 3 miast
+	2. O Wojewodztwach
+	*	informacje ogólne
+	*	Historia regionu
+	3.Turystyka
+	* zabytki
+	* wydarzenia kulturalne,muzea,turystyka
+
